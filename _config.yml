@@ -1,0 +1,28 @@
+name: CJ Vanston
+favicon: null
+layout_spectrum: 0.39723213389515877
+typography_spectrum: 0.1623481826391071
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.0680579012259841
+  lightness: 0.0618834150955081
+  saturation: 0.6139830548781902
+  rhythmicContrast: 0.8581766055431217
+purpose: []
